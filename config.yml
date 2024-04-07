@@ -146,6 +146,9 @@ params:
     - name: Uncategorized
       untitled: true
       closed: false
+    - name: Pandorian
+      untitled: false
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -163,6 +166,27 @@ params:
       description: Where we interact with our community
       category: Uncategorized
       link: https://www.infinitegaminggroup.com/discord/
+    - name: Repository
+      description: Where we can grab our code from, hosted on Reposilite.
+      category: Uncategorized
+    - name: Grafana
+      description: Our Monitoring stack for our projects.
+      category: Uncategorized
+    - name: Invoice Management
+      description: InvoiceNinja FTW.
+      category: Uncategorized
+    - name: Proxy-01
+      description: The Pandorian BungeeCord Proxy.
+      category: Pandorian
+    - name: Hub-01
+      category: Pandorian
+      description: Pandorian's First Hub Server
+    - name: Hub-02
+      category: Pandorian
+      description: Pandorian's Second Hub Server
+    - name: Skyblock
+      category: Pandorian
+      description: Pandorian Skyblock.
 
   # What date format to use?
   #
